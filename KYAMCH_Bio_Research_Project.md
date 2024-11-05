@@ -1,8 +1,9 @@
 **30 Oct, 24**
 
-- (https://www.caidya.com/)
+- **demo website:** (https://www.caidya.com/)
+- **live site:** (https://www.kyabrs.org/)
 
-## About Page design
+# 2. About Page Implementation
 
 ##### about page:
 
@@ -55,10 +56,26 @@ different facilities using a carousel component. Here's a breakdown of what the 
 
 **3 Nov, 24**
 
-## WhoWeAre Page Implement
+## 2.1 WhoWeAre Page Implement
+
 ##### banner heading component
+
 ##### description component
 
 **4 Nov, 24**
 
-## WhoWeAre Page Implement
+## 2.1 WhoWeAre Page Implement
+
+##### HistoryTimeline component
+
+##### Partner component
+
+**5 Nov, 24**
+
+## 2.2 Management Team Page Implementation
+
+##### Heading Banner component:
+
+##### TeamMembers Component:
+
+##### GuidingPrinciples Component:
