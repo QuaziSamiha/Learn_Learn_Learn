@@ -17,3 +17,7 @@
 
 - it contains a form that has an input field and a button. this component will be used to search a specific task
 - a certain number of tasks. for this reason i made a reusable card component
+
+# Add New Course Video form 
+- page link: (http://localhost:3000/en/course/course-provider/add-new-course)
+- added imageInput and textInput(**React Quil**) fields

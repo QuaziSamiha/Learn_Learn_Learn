@@ -79,3 +79,27 @@ different facilities using a carousel component. Here's a breakdown of what the 
 ##### TeamMembers Component:
 
 ##### GuidingPrinciples Component:
+
+# 1. Home Page
+
+##### Hero Component
+
+##### Unleashing and UnleashingCard Component
+
+**6 Nov, 24**
+
+##### FutureMedicine componenet
+
+##### DiscoverResearch component
+
+**7 Nov, 24**
+
+# 2.3 MissionAndValues Page
+
+- link (http://localhost:3000/missionValues)
+
+##### Heading component
+
+##### InnovationCare component
+
+##### CoreValues component
