@@ -21,3 +21,16 @@
 # Add New Course Video form 
 - page link: (http://localhost:3000/en/course/course-provider/add-new-course)
 - added imageInput and textInput(**React Quil**) fields
+
+**10 Nov, 24**
+- **Folder**: components --> admin --> career --> skillsetSetup
+- **Page Link**: (http://localhost:3000/en/admin/career/skillset-setup)
+
+# AddSkillset and EditSkillSet component:
+- used **Postman** 
+- used **React Hook Form**
+- used **Axios** for post form's data and **API** implpementation
+- used **yup validation** for form's data
+
+- **Folder**: components --> admin --> career --> skillSetup
+- **Page Link**: (http://localhost:3000/en/admin/career/skill-setup)
