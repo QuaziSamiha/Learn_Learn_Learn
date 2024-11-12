@@ -3,103 +3,94 @@
 - **demo website:** (https://www.caidya.com/)
 - **live site:** (https://www.kyabrs.org/)
 
+# 1. Home Page
+
+- `Hero` Component
+- `Unleashing` and `UnleashingCard` Component
+  **6 Nov, 24**
+- `FutureMedicine` componenet
+- `DiscoverResearch` component
+
 # 2. About Page Implementation
 
-##### about page:
-
-- The function renders the **About component** in a React page.
-
-##### about component:
-
-- The **About component** in a TypeScript React application renders a **Heading component**.
-
-##### heading component:
-
-- The **Heading component** renders a section with a background image and a **BannerHeading component**
-- displaying a title and paragraph about KYA-BRS.
-- @returns The `Heading` component is being returned, which is a section element containing a `BannerHeading` component with specific props such as `bannerTitle`, `titleColor`, `bannerPara`, and `paraColor`. The `BannerHeading` component displays a banner title and paragraph related to the
-
-##### aboutus component:
-
-- The `AboutUs` function in this TypeScript React component renders a section with an image banner and
-- information about a contract research organization in Bangladesh.
-- @returns The `AboutUs` component is being returned. It is a functional component in React that
-- displays information about a company or organization. The component includes a banner image of
-- doctors, a description of the organization, and a button to learn more. The layout is responsive and
-- styled using Tailwind CSS classes.
-
-##### management team component:
-
-/\* This code snippet is a React component named `ManagementTeam` that displays information about the
-management team of a company. It includes the team members' photos, names, and designations in a
-grid layout. The component also includes a button labeled "Meet Our Leadership" with specific
-styling properties like text color, background color, and hover effect.
-
-##### peachBackground & violetBackground
-
-- The PeachBackground component is a React functional component that renders a section with a peach
-- background image and children components inside a main container.
-- @param - 1. Importing React and ReactNode from the "react" library.
-- @returns The PeachBackground component is being returned, which is a React functional component that
-- renders a section element with a peach background image and a main element containing the children
-- passed to it.
-
-##### AccreditationInspection
-
-- This code snippet is a React component named `AccreditationInspection`. It is rendering a section on
-  a webpage that displays information about accreditations and inspections. Here's a breakdown of what
-
-##### OurFacilities
-
-This code snippet is a React component named `OurFacilities` that displays information about
-different facilities using a carousel component. Here's a breakdown of what the code is doing:
+- **link** : (http://localhost:3000/about1)
+- `About` component
+- `heading` component
+- `AboutUs` component
+- `ManagementTeam` component
+- `MissionValues` component
+- `peachBackground` & `violetBackground`component
+- `AccreditationInspection` component
+- `OurFacilities` component
 
 **3 Nov, 24**
 
 ## 2.1 WhoWeAre Page Implement
 
-##### banner heading component
+- **link**: (http://localhost:3000/whoWeAre)
 
-##### description component
-
-**4 Nov, 24**
-
-## 2.1 WhoWeAre Page Implement
-
-##### HistoryTimeline component
-
-##### Partner component
+- `Heading` component
+- `Description` component
+  **4 Nov, 24**
+- `HistoryTimeline` component
+- `Partner` component
 
 **5 Nov, 24**
 
-## 2.2 Management Team Page Implementation
+# 2.2 Management Team Page Implementation
 
-##### Heading Banner component:
+- **link** : (http://localhost:3000/managementTeam)
 
-##### TeamMembers Component:
+**implemented**
 
-##### GuidingPrinciples Component:
-
-# 1. Home Page
-
-##### Hero Component
-
-##### Unleashing and UnleashingCard Component
-
-**6 Nov, 24**
-
-##### FutureMedicine componenet
-
-##### DiscoverResearch component
+- `Heading` component
+- `TeamMembers` Component
+- `GuidingPrinciples` Component
 
 **7 Nov, 24**
 
-# 2.3 MissionAndValues Page
+# 2.3 MissionAndValues Page Implementation
 
-- link (http://localhost:3000/missionValues)
+- **link** (http://localhost:3000/missionValues)
 
-##### Heading component
+**Implemented 3 components**:
 
-##### InnovationCare component
+- `Heading` component
+- `InnovationCare` component
+- `CoreValues` component
 
-##### CoreValues component
+**10 and 11 Nov, 24**
+
+# 2.4 Accrediation and Inspection Page implementation:
+
+- **link** (http://localhost:3000/accreditationInspection)
+
+**Implemented 3 components**:
+
+- `AccreditationInspection` component
+- `Heading` component
+- `RecognizedExcellence` component
+- `InnovationCare.module.css` file
+
+**12 Nov, 24**
+
+# 3. ContactUs Page Implementation:
+
+- **link**: (http://localhost:3000/contactUs)
+  **Implemented 3 components**:
+
+- `Heading` component
+- `ContactInformation` component
+- `Map` component
+- `Map.module.css` file for shadow
+
+# 4. Story of Volunteer page implementation
+
+- **link**: (http://localhost:3000/volunteer-story)
+- `Heading` component
+- `OurVolunteer` component
+- `ADay` component
+- `VolunteerTask` component
+- `GetInvolved` component
+
+# 5. Employment page implementation

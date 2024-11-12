@@ -18,19 +18,39 @@
 - it contains a form that has an input field and a button. this component will be used to search a specific task
 - a certain number of tasks. for this reason i made a reusable card component
 
-# Add New Course Video form 
+# Add New Course Video form
+
 - page link: (http://localhost:3000/en/course/course-provider/add-new-course)
 - added imageInput and textInput(**React Quil**) fields
 
 **10 Nov, 24**
+
+# SkillsetSetup and SkillSetup Table's form
+
+#### AddSkillset and EditSkillSet component:
+
 - **Folder**: components --> admin --> career --> skillsetSetup
 - **Page Link**: (http://localhost:3000/en/admin/career/skillset-setup)
 
-# AddSkillset and EditSkillSet component:
-- used **Postman** 
-- used **React Hook Form**
-- used **Axios** for post form's data and **API** implpementation
-- used **yup validation** for form's data
+#### AddSkill component:
 
 - **Folder**: components --> admin --> career --> skillSetup
 - **Page Link**: (http://localhost:3000/en/admin/career/skill-setup)
+
+  - used **hoppscotch**
+  - used **React Hook Form**
+  - used **Axios** for post form's data and **API** implpementation
+  - used **yup validation** for form's data
+  - used **react tanstack query** for data fetching
+
+**11 Nov, 24**
+
+#### EditSkill component:
+
+- **Folder**: components --> admin --> career --> skillSetup
+- **Page Link**: (http://localhost:3000/en/admin/career/skill-setup)
+
+  - used **hoppscotch**
+  - used **React Hook Form**
+  - used **Axios** for post form's data and **API** implpementation
+  - used **yup validation** for form's data
