@@ -72,7 +72,7 @@
 - `RecognizedExcellence` component
 - `InnovationCare.module.css` file
 
-**12 Nov, 24**
+**12 Nov, 2024**
 
 # 3. ContactUs Page Implementation:
 
@@ -84,13 +84,28 @@
 - `Map` component
 - `Map.module.css` file for shadow
 
+**12 and 13 Nov, 2024**
+
 # 4. Story of Volunteer page implementation
 
 - **link**: (http://localhost:3000/volunteer-story)
 - `Heading` component
 - `OurVolunteer` component
+- `VolunteerCard` component
 - `ADay` component
+- `ADayCard` component
 - `VolunteerTask` component
 - `GetInvolved` component
 
 # 5. Employment page implementation
+
+- **link**: (http://localhost:3000/employment2)
+
+- `Heading` component
+- `CurrentOpenings` component
+- `CurrentOpeningsCard` component
+- `WhyWorkWithUs` component
+- `WhyWorkWithUsCard` component
+- `Innovation` component
+- `InnovationCard` component
+- `ContactUs` component
