@@ -109,3 +109,25 @@
 - `Innovation` component
 - `InnovationCard` component
 - `ContactUs` component
+
+# 6. JobPost page implementation
+
+- **link**: (http://localhost:3000/job-post)
+
+- `Heading` component
+**14 Nov, 24**
+- `Description` component
+- `SendCV` component
+- `JobDetails` component
+- `Pagination` component
+- `JobOverview` component
+
+# 6. DiscoverResearch page implementation
+
+- **link**: (http://localhost:3000/discover-research)
+
+- `Heading` component
+- `OurMission` component
+- `Pioneer` component
+- `PioneerCard` component
+- `BringingResearch` component
