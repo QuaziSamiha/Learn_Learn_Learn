@@ -134,7 +134,7 @@
 
 ![DiscoverResearch page](/image/DiscoverResearch-page.png)
 
-**18 Nov, 24**
+**17 and 18 Nov, 24**
 
 # 7. Participate page implementation
 
@@ -149,3 +149,37 @@
   - `OurPriority` component
 
 ![DiscoverResearch page](/image/participate-page.png)
+
+**18 Nov, 24**
+
+# 7. Registration page implementation
+- **link** : (http://localhost:3000/registration)
+- It contains following components :
+  - `Heading` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![Registration page](/image/registration-page.png)
+     
+# 8. HealthyVolunteer page implementation
+- **link** : (http://localhost:3000/registration)
+- It contains following components :
+  - `Heading` component
+  - `Potential` component
+  - `WhyParticipate` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![healthy volunteer page](/image/healthyVolunteer-page.png)
+
+# 9. PatientVolunteer page implementation
+- **link** : (http://localhost:3000/patient-volunteer)
+- It contains following components :
+  - `Heading` component
+  - `Potential` component
+  - `WhyParticipate` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![patient volunteer page](/image/patientVolunteer-page.png)
+     

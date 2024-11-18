@@ -1,9 +1,11 @@
 **17 Nov, 24**
 
 # Laan Corp USA LLC
+
 ### Laan Pos Project
 
 - **Figma link** : (https://www.figma.com/proto/yAK9sB8NU9b1srolEgpLh7/Laan-POS?node-id=1435-8352&t=puUvBJiAyq8E3csx-1&starting-point-node-id=1522%3A8109)
+- **Figma link** : (https://www.figma.com/design/yAK9sB8NU9b1srolEgpLh7/Laan-POS?node-id=223-9650&node-type=canvas&t=quwlfA2TFuf9gUqr-0)
 
 - This project is an `admin panel` of `Pos machine`.
 - It's `backend` will be in `Java`.
