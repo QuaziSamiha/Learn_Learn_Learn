@@ -115,7 +115,7 @@
 - **link**: (http://localhost:3000/job-post)
 
 - `Heading` component
-**14 Nov, 24**
+  **14 Nov, 24**
 - `Description` component
 - `SendCV` component
 - `JobDetails` component
@@ -125,9 +125,27 @@
 # 6. DiscoverResearch page implementation
 
 - **link**: (http://localhost:3000/discover-research)
+- It contains following components :
+  - `Heading` component
+  - `OurMission` component
+  - `Pioneer` component
+  - `PioneerCard` component
+  - `BringingResearch` component
 
-- `Heading` component
-- `OurMission` component
-- `Pioneer` component
-- `PioneerCard` component
-- `BringingResearch` component
+![DiscoverResearch page](/image/DiscoverResearch-page.png)
+
+**18 Nov, 24**
+
+# 7. Participate page implementation
+
+- **link**: (http://localhost:3000/participate2)
+- It contains following components :
+  - `Heading` component
+  - `ClinicalTrials` component
+  - `Volunteers` component
+  - `WhyParticipate` component
+  - `BeParticipate` component
+  - `RealStories` component
+  - `OurPriority` component
+
+![DiscoverResearch page](/image/participate-page.png)
