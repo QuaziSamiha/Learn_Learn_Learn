@@ -153,6 +153,7 @@
 **18 Nov, 24**
 
 # 7. Registration page implementation
+
 - **link** : (http://localhost:3000/registration)
 - It contains following components :
   - `Heading` component
@@ -160,8 +161,9 @@
   - `ContactUs` component
 
 ![Registration page](/image/registration-page.png)
-     
+
 # 8. HealthyVolunteer page implementation
+
 - **link** : (http://localhost:3000/registration)
 - It contains following components :
   - `Heading` component
@@ -173,6 +175,7 @@
 ![healthy volunteer page](/image/healthyVolunteer-page.png)
 
 # 9. PatientVolunteer page implementation
+
 - **link** : (http://localhost:3000/patient-volunteer)
 - It contains following components :
   - `Heading` component
@@ -182,4 +185,58 @@
   - `ContactUs` component
 
 ![patient volunteer page](/image/patientVolunteer-page.png)
-     
+
+# 9. PatientVolunteer page implementation
+
+- **link** : (http://localhost:3000/patient-stories)
+- It contains following components :
+  - `Heading` component
+  - `Stories` component
+  - `ContactUs` component
+
+![patient stories page](/image/patient-stories.png)
+
+# 9. Personal Story page implementation
+
+- **link** : (http://localhost:3000/personal-story)
+- It contains following components :
+  - `Heading` component
+  - `Stories` component
+  - `ContactUs` component
+
+![personal story page](/image/personal-story-page.png)
+
+# 9. Solution page implementation
+
+- **link** : (http://localhost:3000/solution)
+- It contains following components :
+  - `Heading` component
+  - `Services` component
+  - `BeParticipate` component
+  - `ContactUs` component
+
+![solution page](/image/solution-page.png)
+
+# 9. Research Services page implementation
+
+- **link** : (http://localhost:3000/research-services)
+- It contains following components :
+  - `Heading` component
+  - `Tabs` component
+    - `Overview` component
+    - `EarlyPhase` component
+    - `Phase` component
+  - `ContactUs` component
+
+![research page 1](/image/research-services-page1.png)
+![research page 2](/image/research-services-page2.png)
+
+# Feasibility Study page implementation
+
+- **link** : (http://localhost:3000/feasibility-study)
+- It contains following components :
+  - `Heading` component
+  - `Description` component
+  - `ContactUs` component
+
+![feasibility page](/image/feasibility-study-page.png)
