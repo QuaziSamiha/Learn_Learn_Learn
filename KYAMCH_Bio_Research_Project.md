@@ -240,3 +240,20 @@
   - `ContactUs` component
 
 ![feasibility page](/image/feasibility-study-page.png)
+
+**19 and 20 Nov, 24**
+
+# Expertise Page
+
+- **link** : (http://localhost:3000/expertise2)
+  ![feasibility page](/image/expertise-page.png)
+
+**20 Nov, 24**
+
+# Autoimmune Diseases Page
+
+- **link** : (http://localhost:3000/autoimmune-diseases)
+
+# Consulting Strategy page
+
+- **link** : (http://localhost:3000/consulting-strategy)
