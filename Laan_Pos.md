@@ -12,7 +12,7 @@
 
 ![pos machine](/image/pos-machine1.png)
 
-A **POS machine** (Point of Sale machine) is a device used by businesses to process payments at the point of sale, where a customer completes a transaction. These machines are a core component of modern retail and service industries. Here's a breakdown:
+- A **POS machine** (`Point of Sale` machine) is a device used by businesses to process payments at the point of sale, where a customer completes a transaction. These machines are a core component of modern retail and service industries. Here's a breakdown:
 
 ### Key Features of a POS Machine:
 
@@ -55,3 +55,56 @@ A **POS machine** (Point of Sale machine) is a device used by businesses to proc
 - `Restaurants`: To handle orders and payments at tables.
 - `Delivery Services`: For accepting payments at customer locations.
 - `Event Ticketing`: For selling tickets and processing payments at venues.
+
+**26 Nov, 24**
+
+#### Used Technologies
+
+- [Shadcn/ui](https://ui.shadcn.com/docs)
+
+  - Used Components:
+
+    - [Accordion](https://ui.shadcn.com/docs/components/accordion) :
+
+      ```
+      npx shadcn@latest add accordion
+      ```
+
+    - [Dialog](https://ui.shadcn.com/docs/components/dialog) :
+
+      ```
+      npx shadcn@latest add dialog
+      ```
+
+    - [Select](https://ui.shadcn.com/docs/components/select) :
+
+      ```
+      npx shadcn@latest add select
+      ```
+
+    - [Radio Group](https://ui.shadcn.com/docs/components/radio-group) :
+
+      ```
+      npx shadcn@latest add radio-group
+      ```
+
+**25 Nov, 24**
+
+### Dashboard --> Administrator (http://localhost:3000/administrator)
+
+- React hook form implement for add new user
+
+#### Meeting (About Laan POS):
+
+- this project will contain
+  - `super admin`
+  - `admin`
+  - `employees` (department wise)
+  - a `template` for producing `receipt` and `bar code`
+  - `drag & drop` page
+
+**26 Nov, 24**
+
+### Administrator
+
+- `shadcn ui` : it's not a component library, it is a collection of reusabale components

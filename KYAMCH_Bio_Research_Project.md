@@ -1,5 +1,6 @@
-**30 Oct, 24**
+From **30 Oct, 24** to **24 Nov, 24**
 
+- **figma link** : (https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
 - **demo website:** (https://www.caidya.com/)
 - **live site:** (https://www.kyabrs.org/)
 
@@ -257,3 +258,11 @@
 # Consulting Strategy page
 
 - **link** : (http://localhost:3000/consulting-strategy)
+
+**21 Nov, 24**
+
+# Cardiovascular Page
+
+- **link** : (http://localhost:3000/cardiovascular-research)
+
+# Research Advocate page
