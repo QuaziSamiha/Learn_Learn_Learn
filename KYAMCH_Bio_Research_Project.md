@@ -4,10 +4,12 @@ From **30 Oct, 24** to **24 Nov, 24**
 
 # KYA (Khaja Yunus Ali) Bio-Research Services
 
-- **Figma Link** : (https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
-- **Demo Website:** (https://www.caidya.com/)
-- **Live Site:** (https://www.kyabrs.org/)
-- **Vercel live site:** (https://kyabrs-3-0-production.vercel.app/)
+KYA-BRS stands as Bangladesh’s leading contract research organization, dedicated to advancing clinical research through innovation and expertise. It is situated in Sirajgonj.
+
+- **Figma Link** : [Click here](https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
+- **Demo Website** : [Caidya](https://www.caidya.com/)
+- **Live Site** : [KYABRS.org](https://www.kyabrs.org/)
+- **Vercel live site** : (https://kyabrs-3-0-production.vercel.app/)
 
 ---
 
