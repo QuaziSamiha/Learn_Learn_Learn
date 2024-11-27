@@ -1,117 +1,152 @@
 From **30 Oct, 24** to **24 Nov, 24**
 
-- **figma link** : (https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
-- **demo website:** (https://www.caidya.com/)
-- **live site:** (https://www.kyabrs.org/)
+**27 Nov, 24**
 
-# 1. Home Page
+# KYA (Khaja Yunus Ali) Bio-Research Services
 
-- `Hero` Component
-- `Unleashing` and `UnleashingCard` Component
-  **6 Nov, 24**
-- `FutureMedicine` componenet
-- `DiscoverResearch` component
+- **Figma Link** : (https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
+- **Demo Website:** (https://www.caidya.com/)
+- **Live Site:** (https://www.kyabrs.org/)
+- **Vercel live site:** (https://kyabrs-3-0-production.vercel.app/)
 
-# 2. About Page Implementation
+---
 
-- **link** : (http://localhost:3000/about1)
-- `About` component
-- `heading` component
-- `AboutUs` component
-- `ManagementTeam` component
-- `MissionValues` component
-- `peachBackground` & `violetBackground`component
-- `AccreditationInspection` component
-- `OurFacilities` component
+## 1. Home Page
 
-**3 Nov, 24**
+- [Home Page](https://kyabrs-3-0-production.vercel.app/)
+- This page contains the following components:
 
-## 2.1 WhoWeAre Page Implement
+  - `Hero` Component
+    - [Solution Page](https://kyabrs-3-0-production.vercel.app/solution)
+    - [Expertise Page](https://kyabrs-3-0-production.vercel.app/expertise)
+    - [Employment Page](https://kyabrs-3-0-production.vercel.app/employment)
+    - [Story of Volunteer Page](https://kyabrs-3-0-production.vercel.app/story-of-volunteers)
+  - `Unleashing` and `UnleashingCard` Component
+    <br>**6 Nov, 24**<br>
+  - `FutureMedicine` componenet
+  - `DiscoverResearch` component
+    - [Discover Research Page](https://kyabrs-3-0-production.vercel.app/discover-research)
+  - `ManagementTeam` component
+  - `StayInformed` component
 
-- **link**: (http://localhost:3000/whoWeAre)
-
-- `Heading` component
-- `Description` component
-  **4 Nov, 24**
-- `HistoryTimeline` component
-- `Partner` component
-
-**5 Nov, 24**
-
-# 2.2 Management Team Page Implementation
-
-- **link** : (http://localhost:3000/managementTeam)
-
-**implemented**
-
-- `Heading` component
-- `TeamMembers` Component
-- `GuidingPrinciples` Component
-
-**7 Nov, 24**
-
-# 2.3 MissionAndValues Page Implementation
-
-- **link** (http://localhost:3000/missionValues)
-
-**Implemented 3 components**:
-
-- `Heading` component
-- `InnovationCare` component
-- `CoreValues` component
-
-**10 and 11 Nov, 24**
-
-# 2.4 Accrediation and Inspection Page implementation:
-
-- **link** (http://localhost:3000/accreditationInspection)
-
-**Implemented 3 components**:
-
-- `AccreditationInspection` component
-- `Heading` component
-- `RecognizedExcellence` component
-- `InnovationCare.module.css` file
-
-**12 Nov, 2024**
-
-# 3. ContactUs Page Implementation:
-
-- **link**: (http://localhost:3000/contactUs)
-  **Implemented 3 components**:
-
-- `Heading` component
-- `ContactInformation` component
-- `Map` component
-- `Map.module.css` file for shadow
+- Home Page
+  ![Home Page](/image/bio-research/home.png)
+- Discover Page
+  ![Discover Page](/image/bio-research/discover-reserch.png)
 
 **12 and 13 Nov, 2024**
 
-# 4. Story of Volunteer page implementation
+### 1.1 Story of Volunteer page implementation
 
 - **link**: (http://localhost:3000/volunteer-story)
-- `Heading` component
-- `OurVolunteer` component
-- `VolunteerCard` component
-- `ADay` component
-- `ADayCard` component
-- `VolunteerTask` component
-- `GetInvolved` component
+- [Story of Volunteer Page](https://kyabrs-3-0-production.vercel.app/story-of-volunteers)
+- This page contains the following component:
+  - `Hero` component
+  - `OurVolunteer` component
+  - `VolunteerCard` component
+  - `ADay` component
+  - `ADayCard` component
+  - `VolunteerTask` component
+  - `GetInvolved` component
 
-# 5. Employment page implementation
+### 1.2 Employment page implementation
 
 - **link**: (http://localhost:3000/employment2)
+- [Employment Page](https://kyabrs-3-0-production.vercel.app/employment)
+- This page contains the following component:
+  - `Hero` component
+  - `CurrentOpenings` component
+  - `CurrentOpeningsCard` component
+  - `WhyWorkWithUs` component
+  - `WhyWorkWithUsCard` component
+  - `Innovation` component
+  - `InnovationCard` component
+  - `ContactUs` component
 
-- `Heading` component
-- `CurrentOpenings` component
-- `CurrentOpeningsCard` component
-- `WhyWorkWithUs` component
-- `WhyWorkWithUsCard` component
-- `Innovation` component
-- `InnovationCard` component
-- `ContactUs` component
+**10 and 11 Nov, 24**
 
-# 6. JobPost page implementation
+### 1.3 DiscoverResearch page implementation
+
+- **link**: (http://localhost:3000/discover-research)
+- [Discover Research Page](https://kyabrs-3-0-production.vercel.app/discover-research)
+- This page contains contains following components :
+  - `Heading` component
+  - `OurMission` component
+  - `Pioneer` component
+  - `PioneerCard` component
+  - `BringingResearch` component
+
+![DiscoverResearch page](/image/DiscoverResearch-page.png)
+
+---
+
+## 2. About Page Implementation
+
+- **link** : (http://localhost:3000/about1)
+- [About Page](https://kyabrs-3-0-production.vercel.app/about)
+- This page contains the following component:
+  - `About` component
+  - `Hero` component
+  - `AboutUs` component
+    - [Who We Are Page](https://kyabrs-3-0-production.vercel.app/about/who-we-are)
+  - `ManagementTeam` component
+    - [Management Team Page](https://kyabrs-3-0-production.vercel.app/about/management-team)
+  - `MissionValues` component
+    - [Mission and Values Page](https://kyabrs-3-0-production.vercel.app/about/mission-&-values)
+  - `AccreditationInspection` component
+    - [Accreditation and Inspection](https://kyabrs-3-0-production.vercel.app/about/accreditations-&-inspections)
+  - `OurFacilities` component
+
+**3 Nov, 24**
+
+### 2.1 Who We Are Page Implementation
+
+- **link**: (http://localhost:3000/whoWeAre)
+- [Who We Are Page](https://kyabrs-3-0-production.vercel.app/about/who-we-are)
+- This page contains the following component:
+  - `Hero` component
+  - `Description` component
+    <br>**4 Nov, 24**<br>
+  - `HistoryTimeline` component
+  - `Partner` component
+
+**5 Nov, 24**
+
+### 2.2 Management Team Page Implementation
+
+- **link** : (http://localhost:3000/managementTeam)
+- [Management Team Page](https://kyabrs-3-0-production.vercel.app/about/management-team)
+- This page contains the following components:
+  - `Hero` component
+  - `TeamMembers` Component
+  - `GuidingPrinciples` Component
+
+**7 Nov, 24**
+
+### 2.3 Mission And Values Page Implementation
+
+- **link** (http://localhost:3000/missionValues)
+- [Mission and Values Page](https://kyabrs-3-0-production.vercel.app/about/mission-&-values)
+- This page contains the following components:
+  - `Hero` component
+  - `InnovationCare` component
+  - `CoreValues` component
+
+**10 and 11 Nov, 24**
+
+### 2.4 Accrediation and Inspection Page implementation:
+
+- **link** (http://localhost:3000/accreditationInspection)
+- [Accreditation and Inspection](https://kyabrs-3-0-production.vercel.app/about/accreditations-&-inspections)
+- This page contains the following components:
+  - `Hero` component
+  - `AccreditationInspection` component
+  - `RecognizedExcellence` component
+  - `InnovationCare.module.css` file
+
+---
+
+# JobPost page implementation
 
 - **link**: (http://localhost:3000/job-post)
 
@@ -123,104 +158,42 @@ From **30 Oct, 24** to **24 Nov, 24**
 - `Pagination` component
 - `JobOverview` component
 
-# 6. DiscoverResearch page implementation
-
-- **link**: (http://localhost:3000/discover-research)
-- It contains following components :
-  - `Heading` component
-  - `OurMission` component
-  - `Pioneer` component
-  - `PioneerCard` component
-  - `BringingResearch` component
-
-![DiscoverResearch page](/image/DiscoverResearch-page.png)
-
-**17 and 18 Nov, 24**
-
-# 7. Participate page implementation
-
-- **link**: (http://localhost:3000/participate2)
-- It contains following components :
-  - `Heading` component
-  - `ClinicalTrials` component
-  - `Volunteers` component
-  - `WhyParticipate` component
-  - `BeParticipate` component
-  - `RealStories` component
-  - `OurPriority` component
-
-![DiscoverResearch page](/image/participate-page.png)
-
 **18 Nov, 24**
 
-# 7. Registration page implementation
+# 3. Solution Page Implementation
 
-- **link** : (http://localhost:3000/registration)
-- It contains following components :
-  - `Heading` component
-  - `RegistrationForm` component
-  - `ContactUs` component
-
-![Registration page](/image/registration-page.png)
-
-# 8. HealthyVolunteer page implementation
-
-- **link** : (http://localhost:3000/registration)
-- It contains following components :
-  - `Heading` component
-  - `Potential` component
-  - `WhyParticipate` component
-  - `RegistrationForm` component
-  - `ContactUs` component
-
-![healthy volunteer page](/image/healthyVolunteer-page.png)
-
-# 9. PatientVolunteer page implementation
-
-- **link** : (http://localhost:3000/patient-volunteer)
-- It contains following components :
-  - `Heading` component
-  - `Potential` component
-  - `WhyParticipate` component
-  - `RegistrationForm` component
-  - `ContactUs` component
-
-![patient volunteer page](/image/patientVolunteer-page.png)
-
-# 9. PatientVolunteer page implementation
-
-- **link** : (http://localhost:3000/patient-stories)
-- It contains following components :
-  - `Heading` component
-  - `Stories` component
-  - `ContactUs` component
-
-![patient stories page](/image/patient-stories.png)
-
-# 9. Personal Story page implementation
-
-- **link** : (http://localhost:3000/personal-story)
-- It contains following components :
-  - `Heading` component
-  - `Stories` component
-  - `ContactUs` component
-
-![personal story page](/image/personal-story-page.png)
-
-# 9. Solution page implementation
-
-- **link** : (http://localhost:3000/solution)
-- It contains following components :
-  - `Heading` component
+- [Solution Page](https://kyabrs-3-0-production.vercel.app/solution)
+- It contains the following components :
+  - `Hero` component
+  - `Partner` component
   - `Services` component
+    - [Clinical Development](https://kyabrs-3-0-production.vercel.app/solution/clinical-development)
+    - [Clinical Data Management](https://kyabrs-3-0-production.vercel.app/solution/clinical-data-management)
+    - [Quality Assurance](https://kyabrs-3-0-production.vercel.app/solution/quality-assurance)
+    - [Clinical Trial Management](https://kyabrs-3-0-production.vercel.app/solution/clinical-trial-management)
+    - [Labaratory Services](https://kyabrs-3-0-production.vercel.app/solution/laboratory-services)
+    - [Clinical Monitoring](https://kyabrs-3-0-production.vercel.app/solution/clinical-monitoring)
+    - [Biostatistics Services] (https://kyabrs-3-0-production.vercel.app/solution/biostatics-services)
   - `BeParticipate` component
   - `ContactUs` component
 
 ![solution page](/image/solution-page.png)
+![Clinical Development](/image/bio-research/solution2.png)
+![](/image/bio-research/solution3.png)
+![](/image/bio-research/solution4.png)
+![](/image/bio-research/solution5.png)
+![](/image/bio-research/solution6.png)
+![](/image/bio-research/solution7.png)
+![](/image/bio-research/solution8.png)
+![](/image/bio-research/solution9.png)
+![](/image/bio-research/solution10.png)
+![](/image/bio-research/solution11.png)
+![](/image/bio-research/solution12.png)
+![](/image/bio-research/solution13.png)
+![](/image/bio-research/solution14.png)
 
-# 9. Research Services page implementation
+### 3.1 Research Services page implementation
 
-- **link** : (http://localhost:3000/research-services)
 - It contains following components :
   - `Heading` component
   - `Tabs` component
@@ -232,7 +205,7 @@ From **30 Oct, 24** to **24 Nov, 24**
 ![research page 1](/image/research-services-page1.png)
 ![research page 2](/image/research-services-page2.png)
 
-# Feasibility Study page implementation
+### 3.2 Feasibility Study page implementation
 
 - **link** : (http://localhost:3000/feasibility-study)
 - It contains following components :
@@ -244,25 +217,123 @@ From **30 Oct, 24** to **24 Nov, 24**
 
 **19 and 20 Nov, 24**
 
-# Expertise Page
+# 4. Expertise Page
 
-- **link** : (http://localhost:3000/expertise2)
-  ![feasibility page](/image/expertise-page.png)
+- [Expertise Page](https://kyabrs-3-0-production.vercel.app/expertise)
+  <br>**20 Nov, 24**<br>
+  - [Autoimmune Diseases Page](https://kyabrs-3-0-production.vercel.app/expertise/autoimmune-diseases)
+    <br>**21 Nov, 24**<br>
+  - [Cardiovascular Page](https://kyabrs-3-0-production.vercel.app/expertise/cardiovascular)
+  - [Endocrine Metabolic](https://kyabrs-3-0-production.vercel.app/expertise/endocrine-metabolic)
+  - [Gastroenterology Page](https://kyabrs-3-0-production.vercel.app/expertise/gastroenterology)
+  - [Hematology Oncology Page](https://kyabrs-3-0-production.vercel.app/expertise/hematology-oncology)
+  - [Infectious Diseases Page](https://kyabrs-3-0-production.vercel.app/expertise/infectious-diseases)
+  - [Nash Liver Disease Page](https://kyabrs-3-0-production.vercel.app/expertise/nash-liver-disease)
+  - [Neurology Psychiatry Page](https://kyabrs-3-0-production.vercel.app/expertise/neurology-psychiatry)
+  - [Nephrology Page](https://kyabrs-3-0-production.vercel.app/expertise/nephrology)
+  - [Ophthalmology Page](https://kyabrs-3-0-production.vercel.app/expertise/ophthalmology)
+  - [Pediatrics Page](https://kyabrs-3-0-production.vercel.app/expertise/pediatrics)
+  - [Rare Diseases Page](https://kyabrs-3-0-production.vercel.app/expertise/rare-diseases)
+  - [Cellular Gene Therapy Page](https://kyabrs-3-0-production.vercel.app/expertise/cellular-gene-therapy)
+  - [Radiation Therapy Page](https://kyabrs-3-0-production.vercel.app/expertise/radiation-therapy)
+
+![feasibility page](/image/expertise-page.png)
+
+---
+
+**17 and 18 Nov, 24**
+
+## 5. Participate page implementation
+
+- **link**: (http://localhost:3000/participate2)
+- [Participate Page](https://kyabrs-3-0-production.vercel.app/participate)
+- This page contains following components :
+  - `Hero` component
+  - `Volunteers` component
+    - [Healthy Volunteer Page](https://kyabrs-3-0-production.vercel.app/participate/healthy-volunteers)
+    - [Patient Volunteer Page](https://kyabrs-3-0-production.vercel.app/participate/patient-volunteers)
+  - `WhyParticipate` component
+  - `BeParticipate` component
+  - `RealStories` component
+    - [Real Stories](https://kyabrs-3-0-production.vercel.app/participate/patient-stories)
+  - `ClinicalTrials` component
+  - `OurPriority` component
+  - [Registration Form](https://kyabrs-3-0-production.vercel.app/participate/registration)
+
+![Participate page](/image/participate-page.png)
+
+**18 Nov, 24**
+
+### 5.1 Healthy Volunteer page implementation
+
+- **link** : (http://localhost:3000/registration)
+- [Healthy Volunteer Page](https://kyabrs-3-0-production.vercel.app/participate/healthy-volunteers)
+- It contains the following components :
+  - `Hero` component
+  - `Potential` component
+  - `WhyParticipate` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![healthy volunteer page](/image/healthyVolunteer-page.png)
+
+### 5.2 Patient Volunteer page implementation
+
+- **link** : (http://localhost:3000/patient-volunteer)
+- [Patient Volunteer Page](https://kyabrs-3-0-production.vercel.app/participate/patient-volunteers)
+- It contains following components :
+  - `Hero` component
+  - `Potential` component
+  - `WhyParticipate` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![patient volunteer page](/image/patientVolunteer-page.png)
+
+### 5.3 Personal Story page implementation
+
+- **link** : (http://localhost:3000/personal-story)
+- It contains following components :
+  - `Heading` component
+  - `Stories` component
+  - `ContactUs` component
+
+![personal story page](/image/personal-story-page.png)
+![patient stories page](/image/patient-stories.png)
+
+### 5.4 Registration page Implementation
+
+- **link** : (http://localhost:3000/registration)
+- [Registration Form](https://kyabrs-3-0-production.vercel.app/participate/registration)
+- This page contains the following components :
+  - `Hero` component
+  - `RegistrationForm` component
+  - `ContactUs` component
+
+![Registration page](/image/registration-page.png)
+
+---
 
 **20 Nov, 24**
 
-# Autoimmune Diseases Page
+## 6. Consulting Page
 
-- **link** : (http://localhost:3000/autoimmune-diseases)
+- [Consulting Page](https://kyabrs-3-0-production.vercel.app/consulting)
+  - [Tab - 1](https://kyabrs-3-0-production.vercel.app/consulting?tab=0)
+  - [tab - 2](https://kyabrs-3-0-production.vercel.app/consulting?tab=1)
 
-# Consulting Strategy page
+---
 
-- **link** : (http://localhost:3000/consulting-strategy)
+**12 Nov, 2024**
 
-**21 Nov, 24**
+## 7. Contact Us Page Implementation:
 
-# Cardiovascular Page
+- **link**: (http://localhost:3000/contactUs)
+- [Contact Us Page](https://kyabrs-3-0-production.vercel.app/contact-us)
+- This page contains the following components:
+  - `Hero` component
+  - `ContactInformation` component
+  - `Map` component
+  - `Map.module.css` file for shadow
 
-- **link** : (http://localhost:3000/cardiovascular-research)
-
-# Research Advocate page
+---
