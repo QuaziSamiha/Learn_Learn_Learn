@@ -56,6 +56,21 @@
 - `Delivery Services`: For accepting payments at customer locations.
 - `Event Ticketing`: For selling tickets and processing payments at venues.
 
+**27 Nov, 24**
+
+### About Project:
+
+- This project contains the following module:
+  - Dashboard
+    - Reports
+    - Store Management
+    - Inventory & Financials
+    - User Management
+
+#### User Management Module:
+
+- Administrator
+
 **26 Nov, 24**
 
 #### Used Technologies
@@ -94,7 +109,12 @@
 
 - React hook form implement for add new user
 
-#### Meeting (About Laan POS):
+![admin1](/image/laan-pos/addNewUser1.png)
+![admin2](/image/laan-pos/addNewUser2.png)
+form filled up
+![admin2](/image/laan-pos/addNewUser3.png)
+
+#### `Meeting` (About Laan POS):
 
 - this project will contain
   - `super admin`
@@ -108,3 +128,7 @@
 ### Administrator
 
 - `shadcn ui` : it's not a component library, it is a collection of reusabale components
+
+![admin3](/image/laan-pos/administrator3.png)
+![admin4](/image/laan-pos/administrator1.png)
+![admin5](/image/laan-pos/administrator2.png)
