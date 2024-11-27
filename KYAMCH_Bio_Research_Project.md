@@ -29,6 +29,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
     - [Expertise Page](https://kyabrs-3-0-production.vercel.app/expertise)
     - [Employment Page](https://kyabrs-3-0-production.vercel.app/employment)
     - [Story of Volunteer Page](https://kyabrs-3-0-production.vercel.app/story-of-volunteers)
+  - `Discover KYA-BRS` Component
   - `Unleashing` and `UnleashingCard` Component
     <br>**6 Nov, 24**<br>
   - `FutureMedicine` componenet
@@ -73,7 +74,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
 
 **10 and 11 Nov, 24**
 
-### 1.3 DiscoverResearch page implementation
+### 1.3 Discover Research Page implementation
 
 - **link**: (http://localhost:3000/discover-research)
 - [Discover Research Page](https://kyabrs-3-0-production.vercel.app/discover-research)
@@ -84,7 +85,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `PioneerCard` component
   - `BringingResearch` component
 
-![DiscoverResearch page](/image/DiscoverResearch-page.png)
+![DiscoverResearch page](/image/bio-research/DiscoverResearch-page.png)
 
 ---
 
@@ -93,7 +94,6 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
 - **link** : (http://localhost:3000/about1)
 - [About Page](https://kyabrs-3-0-production.vercel.app/about)
 - This page contains the following component:
-  - `About` component
   - `Hero` component
   - `AboutUs` component
     - [Who We Are Page](https://kyabrs-3-0-production.vercel.app/about/who-we-are)
@@ -185,7 +185,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `BeParticipate` component
   - `ContactUs` component
 
-![solution page](/image/solution-page.png)
+![solution page](/image/bio-research/solution-page.png)
 ![Clinical Development](/image/bio-research/solution2.png)
 ![](/image/bio-research/solution3.png)
 ![](/image/bio-research/solution4.png)
@@ -210,18 +210,17 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
     - `Phase` component
   - `ContactUs` component
 
-![research page 1](/image/research-services-page1.png)
-![research page 2](/image/research-services-page2.png)
+![research page 1](/image/bio-research/research-services-page1.png)
+![research page 2](/image/bio-research/research-services-page2.png)
 
 ### 3.2 Feasibility Study page implementation
 
-- **link** : (http://localhost:3000/feasibility-study)
 - It contains following components :
   - `Heading` component
   - `Description` component
   - `ContactUs` component
 
-![feasibility page](/image/feasibility-study-page.png)
+![feasibility page](/image/bio-research/feasibility-study-page.png)
 
 **19 and 20 Nov, 24**
 
@@ -245,7 +244,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - [Cellular Gene Therapy Page](https://kyabrs-3-0-production.vercel.app/expertise/cellular-gene-therapy)
   - [Radiation Therapy Page](https://kyabrs-3-0-production.vercel.app/expertise/radiation-therapy)
 
-![feasibility page](/image/expertise-page.png)
+![feasibility page](/image/bio-research/expertise-page.png)
 
 ---
 
@@ -268,7 +267,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `OurPriority` component
   - [Registration Form](https://kyabrs-3-0-production.vercel.app/participate/registration)
 
-![Participate page](/image/participate-page.png)
+![Participate page](/image/bio-research/participate-page.png)
 
 **18 Nov, 24**
 
@@ -283,7 +282,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `RegistrationForm` component
   - `ContactUs` component
 
-![healthy volunteer page](/image/healthyVolunteer-page.png)
+![healthy volunteer page](/image/bio-research/healthyVolunteer-page.png)
 
 ### 5.2 Patient Volunteer page implementation
 
@@ -296,18 +295,17 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `RegistrationForm` component
   - `ContactUs` component
 
-![patient volunteer page](/image/patientVolunteer-page.png)
+![patient volunteer page](/image/bio-research/patientVolunteer-page.png)
 
 ### 5.3 Personal Story page implementation
 
-- **link** : (http://localhost:3000/personal-story)
 - It contains following components :
   - `Heading` component
   - `Stories` component
   - `ContactUs` component
 
-![personal story page](/image/personal-story-page.png)
-![patient stories page](/image/patient-stories.png)
+![personal story page](/image/bio-research/personal-story-page.png)
+![patient stories page](/image/bio-research/patient-stories.png)
 
 ### 5.4 Registration page Implementation
 
@@ -318,7 +316,7 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `RegistrationForm` component
   - `ContactUs` component
 
-![Registration page](/image/registration-page.png)
+![Registration page](/image/bio-research/registration-page.png)
 
 ---
 
