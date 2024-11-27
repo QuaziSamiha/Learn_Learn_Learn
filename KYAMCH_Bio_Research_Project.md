@@ -4,12 +4,18 @@ From **30 Oct, 24** to **24 Nov, 24**
 
 # KYA (Khaja Yunus Ali) Bio-Research Services
 
-KYA-BRS stands as Bangladesh’s leading contract research organization, dedicated to advancing clinical research through innovation and expertise. It is situated in Sirajgonj.
+This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract research organization, dedicated to advancing clinical research through innovation and expertise. It is situated in Sirajgonj.
 
 - **Figma Link** : [Click here](https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
 - **Demo Website** : [Caidya](https://www.caidya.com/)
 - **Live Site** : [KYABRS.org](https://www.kyabrs.org/)
 - **Vercel live site** : (https://kyabrs-3-0-production.vercel.app/)
+- **Used Technology** :
+  - **Next JS 15** : (https://nextjs.org/)
+  - **Tailwind CSS** : (https://tailwindcss.com/)
+  - **Shadcn/ui** : (https://ui.shadcn.com/)
+  - **React Hook Form** : (https://www.react-hook-form.com/)
+  - **React Icon**: (https://react-icons.github.io/react-icons/)
 
 ---
 
