@@ -132,3 +132,14 @@ form filled up
 ![admin3](/image/laan-pos/administrator3.png)
 ![admin4](/image/laan-pos/administrator1.png)
 ![admin5](/image/laan-pos/administrator2.png)
+
+**1 Dec, 24**
+
+### Store Management Module
+
+#### Employees Cashier
+
+- used `React Hook Form` with `Yup` validation
+
+![add new employee](/image/laan-pos/addNewEmployee1.png)
+![add new employee](/image/laan-pos/addNewEmployee2.png)
