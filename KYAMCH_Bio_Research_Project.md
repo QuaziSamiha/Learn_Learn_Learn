@@ -2,14 +2,15 @@ From **30 Oct, 24** to **24 Nov, 24**
 
 **27 Nov, 24**
 
-# KYA (Khaja Yunus Ali) Bio-Research Services
+# KYAMCH-BRS (Khaja Yunus Ali Medical College and Hospital Bio-Research Services)
 
-This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract research organization, dedicated to advancing clinical research through innovation and expertise. It is situated in Sirajgonj.
+- This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract research organization, dedicated to advancing clinical research through innovation and expertise. It is situated in Sirajgonj.
 
 - **Figma Link** : [Click here](https://www.figma.com/design/eDDce3GFGSmPqOhHX4eW2m/Khwaja-Yunus-Ali-Bio-Research-Services-V3.0?node-id=804-6028&node-type=frame&t=0QbpHq6JBvTpBXcn-0)
 - **Demo Website** : [Caidya](https://www.caidya.com/)
 - **Live Site** : [KYABRS.org](https://www.kyabrs.org/)
 - **Vercel live site** : (https://kyabrs-3-0-production.vercel.app/)
+- **test live site**: (http://192.168.0.3:4014/)
 - **Used Technology** :
   - **Next JS 15** : (https://nextjs.org/)
   - **Tailwind CSS** : (https://tailwindcss.com/)
@@ -343,3 +344,33 @@ This is a `portfolio` project. KYA-BRS stands as Bangladesh’s leading contract
   - `Map.module.css` file for shadow
 
 ---
+
+**2 Dec, 24**
+
+## Bug Fixing Day after QA
+
+- change website title and icon
+
+### Learning
+
+- two type google font add to website
+- usePathname() hook
+- lazy loader
+
+##### tailwind new class
+
+- antialiased
+- space-y-2
+- inline-flex
+- content-end
+- overflow-auto
+- h-[calc(100vh-30vh)]
+- customScrollbar
+- object-cover
+- inset-0
+- [perspective:1000px]
+
+#### Question
+
+- fonts folder within app folder
+- linkUnderline -- footer css
