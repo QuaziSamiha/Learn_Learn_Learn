@@ -144,11 +144,52 @@ form filled up
 ![add new employee](/image/laan-pos/addNewEmployee1.png)
 ![add new employee](/image/laan-pos/addNewEmployee2.png)
 
-**12 Dec, 24**
+**12 Dec, 24 & 15 Dec, 24**
 
-### Promotion Section:
+### Promotion Section: `Store Management Module`
 
-- A table will be available. All Promotional Product list will be shown on that table.
+- It will contain `3 tabs` such as 
+   - `Promotional Product List`
+   - `Mix & Match Promotion`
+   - `Combination Promotion`
+
+#### `Promotional Product List` Tab
+- A table will be available. All Promotional Product lists will be shown on that table.
+- This table will contain the following columns:
+  - Name (`Promotion Name`)
+  - POS ID
+  - List Type (either `Product` or `Department`)
+  - List size
+  - Action (it will contain `Delete` option)
+- On the table header there will a button 'New Promotion Product' to add new promotion for a product. After clicking this button a
+  modal will open. This modal contains a form that will contain the following field:
+  - 1. Name (promotion name)
+  - 2. select list (you have to select `Product List` or `Department List`)
+  - 3. 
+      - if you select `Product List`, then
+         - you will get options for selection by `Product Name` or `SKU (Stock Keeping Unit)` (you have to select `at least 1 product` but you can select `multiple product`)
+         - After selecting products name or SKU total no of selected product will be shown on below `Current list size` and
+         a list will be shown like table , it will contain `SKU`, `Name(Product name)` and `Action(delete)` as columns.
+      - if you select `Department List`, then
+         - you will get options for selection by `Department` (you have to select `at least 1 department` but you can select `multiple department`)
+         - After selecting departments by name total no of selected department will be shown on below `Current list size` and
+         a list will be shown like table , it will contain `POS ID`, `Name(Department name)` and `Remove` as columns.
+
+#### `Mix & Match Promotion` Tab
+- A table will be available. All `Mix and Match List` will be shown on this table.
+- This table will contain the following columns:
+   - Name
+   - POS ID
+   - Store
+   - Start Day/Time
+   - End Day/Time
+   - Days of week available
+   - List Used
+   - Price Breaks
+   - Action (Delete)
+- A button `New Mix & Match Promotion`. After clicking a modal will open. This modal will contain a form. 
+This form will contain the following fields:
+   - List to apply promotion (`Selection Field` - only on `list` can be selected from here)
 
 **12 Dec, 24**
 
@@ -157,12 +198,15 @@ form filled up
 ## Promotion:
 
 ### Imagine This Scenario:
+
 You run a **coffee shop** in the USA. You sell coffee, pastries, and sandwiches. You want more people to visit your shop and buy your products. To achieve this, you decide to **promote your products**.
 
 ---
 
 ### Example of Product Promotion:
+
 #### 1. **Offer a Discount:**
+
 You announce:  
 **"Buy 1 coffee, get the 2nd coffee 50% off."**
 
@@ -172,16 +216,18 @@ You announce:
 ---
 
 #### 2. **Create a Limited-Time Deal:**
+
 You say:  
 **"Free pastry with any coffee purchase—this weekend only!"**
 
 - **Why this works:**  
-  The limited time creates urgency—customers think, *"I don’t want to miss this deal!"*  
+  The limited time creates urgency—customers think, _"I don’t want to miss this deal!"_  
   You might sell more coffee because the free pastry makes it feel like a better deal.
 
 ---
 
 #### 3. **Loyalty Program:**
+
 You introduce:  
 **"Buy 5 coffees, get 1 free."**
 
@@ -191,24 +237,27 @@ You introduce:
 ---
 
 #### 4. **Social Media Promotion:**
+
 You post on Instagram:  
 **"Share a picture of your coffee and tag us for a chance to win a $10 gift card!"**
 
 - **Why this works:**  
-  Customers share your business with their friends for free, giving you more exposure without spending on ads.  
+  Customers share your business with their friends for free, giving you more exposure without spending on ads.
 
 ---
 
 ### Summary of the Strategy:
+
 1. You use discounts, limited-time offers, and rewards to attract more customers.
-2. You make your products feel more valuable and special.  
-3. Your goal is to increase sales and bring customers back repeatedly.  
+2. You make your products feel more valuable and special.
+3. Your goal is to increase sales and bring customers back repeatedly.
 
 ## Retail Store
 
 A **retail store** is a business that sells products or goods directly to customers for their personal use. Retail stores are the final point in the supply chain where goods move from manufacturers or wholesalers to individual buyers.
 
 ### Key Characteristics:
+
 1. **Direct to Consumer:** Retail stores serve customers who want to purchase items for personal or household use.
 2. **Physical or Online:** They can be physical locations (like Walmart) or online platforms (like Amazon).
 3. **Wide Variety of Products:** They often sell a range of items, from groceries and clothing to electronics and furniture.
@@ -216,25 +265,26 @@ A **retail store** is a business that sells products or goods directly to custom
 ---
 
 ### Types of Retail Stores:
+
 1. **Department Stores:**  
    Large stores with sections for different types of products.  
-   *Example:* Macy’s, Kohl’s.
+   _Example:_ Macy’s, Kohl’s.
 
 2. **Supermarkets:**  
    Stores that focus on food and household items.  
-   *Example:* Walmart, Kroger.
+   _Example:_ Walmart, Kroger.
 
 3. **Specialty Stores:**  
    Focus on specific products like shoes, books, or electronics.  
-   *Example:* Foot Locker (shoes), Best Buy (electronics).
+   _Example:_ Foot Locker (shoes), Best Buy (electronics).
 
 4. **Convenience Stores:**  
    Small stores offering essential items, usually open late.  
-   *Example:* 7-Eleven, gas station mini-marts.
+   _Example:_ 7-Eleven, gas station mini-marts.
 
 5. **Online Retailers:**  
    Websites or apps where customers shop online.  
-   *Example:* Amazon, eBay.
+   _Example:_ Amazon, eBay.
 
 # SKU (Stock Keeping Unit)
 
@@ -243,19 +293,20 @@ A **retail store** is a business that sells products or goods directly to custom
 ---
 
 ### Key Features of an SKU:
+
 1. **Unique Identifier:** Each product and its variations (like size, color, or model) gets a distinct SKU.
-2. **Customizable Format:** SKUs are usually alphanumeric codes created by the business. For example:  
-   - **"SHRT-BLU-MED"** (for a medium blue shirt).  
+2. **Customizable Format:** SKUs are usually alphanumeric codes created by the business. For example:
+   - **"SHRT-BLU-MED"** (for a medium blue shirt).
    - **"ELEC-TV-55IN"** (for a 55-inch television).
 3. **Internal Use:** SKUs are mainly for internal tracking and aren’t standardized like barcodes or UPCs (Universal Product Codes).
 
 ---
 
 ### How SKUs Work:
+
 - A **clothing retailer** sells shirts in different colors and sizes:
   - A **red shirt, size small** might have the SKU **"SH-RED-S"**.
   - A **blue shirt, size medium** might have the SKU **"SH-BLU-M"**.
-  
 - When a sale happens, the POS system uses the SKU to:
   1. Deduct the product from inventory.
   2. Track which product is selling well.
@@ -263,9 +314,10 @@ A **retail store** is a business that sells products or goods directly to custom
 ---
 
 ### Why SKUs Are Important:
+
 1. **Inventory Management:**  
    SKUs make it easy to track how many units of each product are in stock.  
-   *Example:* A store can see they have 10 blue shirts in stock but are out of red ones.
+   _Example:_ A store can see they have 10 blue shirts in stock but are out of red ones.
 
 2. **Sales Analysis:**  
    Businesses can analyze which SKUs sell best and adjust their stock or promotions.
@@ -276,10 +328,12 @@ A **retail store** is a business that sells products or goods directly to custom
 ---
 
 ### Example:
+
 A grocery store sells apples in different types and weights:
-- **SKU001:** Gala Apples, 1 lb.  
-- **SKU002:** Fuji Apples, 1 lb.  
-- **SKU003:** Gala Apples, 2 lbs.  
+
+- **SKU001:** Gala Apples, 1 lb.
+- **SKU002:** Fuji Apples, 1 lb.
+- **SKU003:** Gala Apples, 2 lbs.
 
 By tracking SKUs, the store knows how many Gala apples (1 lb) are left or if they need to reorder Fuji apples.
 
