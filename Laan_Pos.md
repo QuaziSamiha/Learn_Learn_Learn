@@ -77,32 +77,6 @@
 
 - [Shadcn/ui](https://ui.shadcn.com/docs)
 
-  - Used Components:
-
-    - [Accordion](https://ui.shadcn.com/docs/components/accordion) :
-
-      ```
-      npx shadcn@latest add accordion
-      ```
-
-    - [Dialog](https://ui.shadcn.com/docs/components/dialog) :
-
-      ```
-      npx shadcn@latest add dialog
-      ```
-
-    - [Select](https://ui.shadcn.com/docs/components/select) :
-
-      ```
-      npx shadcn@latest add select
-      ```
-
-    - [Radio Group](https://ui.shadcn.com/docs/components/radio-group) :
-
-      ```
-      npx shadcn@latest add radio-group
-      ```
-
 **25 Nov, 24**
 
 ### Dashboard --> Administrator (http://localhost:3000/administrator)
@@ -144,16 +118,36 @@ form filled up
 ![add new employee](/image/laan-pos/addNewEmployee1.png)
 ![add new employee](/image/laan-pos/addNewEmployee2.png)
 
+**19 Dec, 24**
+
+#### Tax Setup
+
+![tax setup](/image/laan-pos/tax-setup1.PNG)
+![tax setup](/image/laan-pos/tax-setup2.PNG)
+![tax setup](/image/laan-pos/tax-setup3.PNG)
+![tax setup](/image/laan-pos/tax-setup4.PNG)
+
+**User Interface Features**
+
+  - Pagination for navigating between tax records.
+  - Search functionality to quickly locate a record.
+  - Options to export data to PDF or CSV formats. **Confusing Section**
+  - Form for adding new tax records via a New Tax Setup button
+
+**Functionality**
+
+
 **12 Dec, 24 & 15 Dec, 24**
 
 ### Promotion Section: `Store Management Module`
 
-- It will contain `3 tabs` such as 
-   - `Promotional Product List`
-   - `Mix & Match Promotion`
-   - `Combination Promotion`
+- It will contain `3 tabs` such as
+  - `Promotional Product List`
+  - `Mix & Match Promotion`
+  - `Combination Promotion`
 
 #### `Promotional Product List` Tab
+
 - A table will be available. All Promotional Product lists will be shown on that table.
 - This table will contain the following columns:
   - Name (`Promotion Name`)
@@ -165,31 +159,32 @@ form filled up
   modal will open. This modal contains a form that will contain the following field:
   - 1. Name (promotion name)
   - 2. select list (you have to select `Product List` or `Department List`)
-  - 3. 
-      - if you select `Product List`, then
-         - you will get options for selection by `Product Name` or `SKU (Stock Keeping Unit)` (you have to select `at least 1 product` but you can select `multiple product`)
-         - After selecting products name or SKU total no of selected product will be shown on below `Current list size` and
-         a list will be shown like table , it will contain `SKU`, `Name(Product name)` and `Action(delete)` as columns.
-      - if you select `Department List`, then
-         - you will get options for selection by `Department` (you have to select `at least 1 department` but you can select `multiple department`)
-         - After selecting departments by name total no of selected department will be shown on below `Current list size` and
-         a list will be shown like table , it will contain `POS ID`, `Name(Department name)` and `Remove` as columns.
+  - 3.
+    - if you select `Product List`, then
+      - you will get options for selection by `Product Name` or `SKU (Stock Keeping Unit)` (you have to select `at least 1 product` but you can select `multiple product`)
+      - After selecting products name or SKU total no of selected product will be shown on below `Current list size` and
+        a list will be shown like table , it will contain `SKU`, `Name(Product name)` and `Action(delete)` as columns.
+    - if you select `Department List`, then
+      - you will get options for selection by `Department` (you have to select `at least 1 department` but you can select `multiple department`)
+      - After selecting departments by name total no of selected department will be shown on below `Current list size` and
+        a list will be shown like table , it will contain `POS ID`, `Name(Department name)` and `Remove` as columns.
 
 #### `Mix & Match Promotion` Tab
+
 - A table will be available. All `Mix and Match List` will be shown on this table.
 - This table will contain the following columns:
-   - Name
-   - POS ID
-   - Store
-   - Start Day/Time
-   - End Day/Time
-   - Days of week available
-   - List Used
-   - Price Breaks
-   - Action (Delete)
-- A button `New Mix & Match Promotion`. After clicking a modal will open. This modal will contain a form. 
-This form will contain the following fields:
-   - List to apply promotion (`Selection Field` - only on `list` can be selected from here)
+  - Name
+  - POS ID
+  - Store
+  - Start Day/Time
+  - End Day/Time
+  - Days of week available
+  - List Used
+  - Price Breaks
+  - Action (Delete)
+- A button `New Mix & Match Promotion`. After clicking a modal will open. This modal will contain a form.
+  This form will contain the following fields:
+  - List to apply promotion (`Selection Field` - only on `list` can be selected from here)
 
 **12 Dec, 24**
 
@@ -338,3 +333,7 @@ A grocery store sells apples in different types and weights:
 By tracking SKUs, the store knows how many Gala apples (1 lb) are left or if they need to reorder Fuji apples.
 
 ---
+
+## Inventory
+
+- The term "inventory" refers to the collection of goods, materials, or products that a business keeps on hand for the purpose of production, resale, or usage. The meaning can vary slightly depending on the context
